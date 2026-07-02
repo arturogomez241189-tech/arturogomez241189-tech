@@ -9,7 +9,7 @@ Mi objetivo es identificar vectores de vulnerabilidad, explotar fallos de diseñ
 
 ## 🚀 Proyectos de Seguridad Ofensiva & Pentesting
 
-*   **[HackTheBox - Cap Writeup](https://github.com):** Análisis y pwn completo de la máquina "Cap". Explotación de vulnerabilidades de lógica web (**IDOR**), inspección de tráfico de red (PCAP/FTP) y escalada de privilegios mediante el abuso de **Linux Capabilities** (`cap_setuid`) en Python.
+*   **[HackTheBox - Cap Writeup]([https://github.com](https://github.com/arturogomez241189-tech/HTB-Cap-Writeup)):** Análisis y pwn completo de la máquina "Cap". Explotación de vulnerabilidades de lógica web (**IDOR**), inspección de tráfico de red (PCAP/FTP) y escalada de privilegios mediante el abuso de **Linux Capabilities** (`cap_setuid`) en Python.
 *   **[Bypass 403 Script](https://github.com):** Herramienta orientada al bypass de restricciones de control de acceso HTTP 403 Forbidden durante fases de reconocimiento web.
 *   **[Dirty COW Kernel Exploit Project](https://github.com):** Prácticas de explotación del mítico fallo de condición de carrera (CVE-2016-5195) en el kernel de Linux para la elevación de privilegios local.
 *   **[OWASP Top 10 Exercises](https://github.com):** Laboratorios prácticos dedicados a la identificación y explotación de las 10 vulnerabilidades web más críticas (Broken Access Control, Inyecciones, SSRF, etc.).
