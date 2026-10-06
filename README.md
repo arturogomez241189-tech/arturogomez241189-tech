@@ -1,4 +1,4 @@
-# ¡Hola! Soy Arturo Gómez — Thorkazz 👋
+# ¡Hola! Soy Arturo — Thorkazz 👋
 
 Apasionado de la ciberseguridad con un enfoque especializado en **Red Team / Pentesting** y Seguridad Ofensiva. Cuento con una sólida base técnica e híbrida desarrollada a través de formación intensiva en **4Geeks Academy** y entrenamiento continuo en plataformas de laboratorios como **Hack The Box**.
 
